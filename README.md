@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shobhini
 - 👀 I’m interested in Robotics and technology behind Artificial Intelligence.
-- 🌱 I’m currently learning Smart Manufacturing engineering as pre-final year student of PDPM IIITDM Jabalpur.
+- 🌱 I’m currently working as a software engineer intern at CampX.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me -> my linkedln id: www.linkedin.com/in/shobhini-kulshreshtha-325840250
 
